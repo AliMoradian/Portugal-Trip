@@ -1,0 +1,5 @@
+{
+  "name": "Portugal Explorer Itinerary",
+  "description": "An interactive map-based itinerary for a road trip through Portugal, from Lisbon to the Algarve and up to Porto.",
+  "requestFramePermissions": ["geolocation"]
+}
